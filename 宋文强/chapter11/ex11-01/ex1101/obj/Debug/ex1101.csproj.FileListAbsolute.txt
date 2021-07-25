@@ -1,0 +1,10 @@
+F:\C#教材\教材例题\chapter11\ex11-01\ex1101\bin\Debug\ex1101.exe.config
+F:\C#教材\教材例题\chapter11\ex11-01\ex1101\obj\Debug\ex1101.exe
+F:\C#教材\教材例题\chapter11\ex11-01\ex1101\obj\Debug\ex1101.pdb
+F:\C#教材\教材例题\chapter11\ex11-01\ex1101\bin\Debug\Student.mdb
+F:\C#教材\教材例题\chapter11\ex11-01\ex1101\bin\Debug\ex1101.exe
+F:\C#教材\教材例题\chapter11\ex11-01\ex1101\bin\Debug\ex1101.pdb
+F:\C#教材\教材例题\chapter11\ex11-01\ex1101\obj\Debug\ResolveAssemblyReference.cache
+F:\C#教材\教材例题\chapter11\ex11-01\ex1101\obj\Debug\ex1101.Form1.resources
+F:\C#教材\教材例题\chapter11\ex11-01\ex1101\obj\Debug\ex1101.Properties.Resources.resources
+F:\C#教材\教材例题\chapter11\ex11-01\ex1101\obj\Debug\ex1101.csproj.GenerateResource.Cache

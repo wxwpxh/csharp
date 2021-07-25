@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\UDPSend.Form1.resources
+obj\Debug\UDPSend.Properties.Resources.resources
+obj\Debug\UDPSend.csproj.GenerateResource.Cache
+bin\Debug\UDPSend.exe
+bin\Debug\UDPSend.pdb
+obj\Debug\UDPSend.exe
+obj\Debug\UDPSend.pdb

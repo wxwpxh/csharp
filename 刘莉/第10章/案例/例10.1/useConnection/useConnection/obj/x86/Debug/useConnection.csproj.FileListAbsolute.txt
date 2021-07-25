@@ -1,0 +1,10 @@
+D:\1a课件\C#课件\C#课程编写\第九章\案例\例9.1\useConnection\useConnection\bin\Debug\useConnection.exe
+D:\1a课件\C#课件\C#课程编写\第九章\案例\例9.1\useConnection\useConnection\bin\Debug\useConnection.pdb
+D:\1a课件\C#课件\C#课程编写\第九章\案例\例9.1\useConnection\useConnection\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1a课件\C#课件\C#课程编写\第九章\案例\例9.1\useConnection\useConnection\obj\x86\Debug\useConnection.exe
+D:\1a课件\C#课件\C#课程编写\第九章\案例\例9.1\useConnection\useConnection\obj\x86\Debug\useConnection.pdb
+D:\1a课件\CS课件\CS课程编写\第九章\案例\例9.1\useConnection\useConnection\obj\x86\Debug\useConnection.exe
+D:\1a课件\CS课件\CS课程编写\第九章\案例\例9.1\useConnection\useConnection\obj\x86\Debug\useConnection.pdb
+D:\1a课件\CS课件\CS课程编写\第九章\案例\例9.1\useConnection\useConnection\bin\Debug\useConnection.exe
+D:\1a课件\CS课件\CS课程编写\第九章\案例\例9.1\useConnection\useConnection\bin\Debug\useConnection.pdb
+D:\1a课件\CS课件\CS课程编写\第九章\案例\例9.1\useConnection\useConnection\obj\x86\Debug\ResolveAssemblyReference.cache

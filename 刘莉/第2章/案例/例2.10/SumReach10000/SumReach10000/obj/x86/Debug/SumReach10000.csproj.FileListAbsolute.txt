@@ -1,0 +1,5 @@
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第2章\案例\例2.10\SumReach10000\SumReach10000\bin\Debug\SumReach10000.exe
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第2章\案例\例2.10\SumReach10000\SumReach10000\bin\Debug\SumReach10000.pdb
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第2章\案例\例2.10\SumReach10000\SumReach10000\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第2章\案例\例2.10\SumReach10000\SumReach10000\obj\x86\Debug\SumReach10000.exe
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第2章\案例\例2.10\SumReach10000\SumReach10000\obj\x86\Debug\SumReach10000.pdb

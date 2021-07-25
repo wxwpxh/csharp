@@ -1,0 +1,117 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{743070A9-56F2-4591-8C71-BBE52A5B354F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Manning.MyPhotoControls</RootNamespace>
+    <AssemblyName>MyPhotoControls</AssemblyName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AlbumController.cs" />
+    <Compile Include="AlbumEditDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AlbumEditDialog.Designer.cs">
+      <DependentUpon>AlbumEditDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AlbumPasswordDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AlbumPasswordDialog.Designer.cs">
+      <DependentUpon>AlbumPasswordDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BaseEditDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaseEditDialog.Designer.cs">
+      <DependentUpon>BaseEditDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FlybyTextProvider.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="PhotoEditDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PhotoEditDialog.Designer.cs">
+      <DependentUpon>PhotoEditDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PixelDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PixelDialog.Designer.cs">
+      <DependentUpon>PixelDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ScrollablePictureBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Service Include="{94E38DFF-614B-4cbd-B67C-F211BB35CE8B}" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MyPhotoAlbum\MyPhotoAlbum.csproj">
+      <Project>{51E85ABB-90B2-445D-91E4-F12BAE37226B}</Project>
+      <Name>MyPhotoAlbum</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AlbumEditDialog.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AlbumEditDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AlbumPasswordDialog.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AlbumPasswordDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaseEditDialog.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>BaseEditDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PhotoEditDialog.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>PhotoEditDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PixelDialog.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>PixelDialog.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ScrollablePictureBox.bmp" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

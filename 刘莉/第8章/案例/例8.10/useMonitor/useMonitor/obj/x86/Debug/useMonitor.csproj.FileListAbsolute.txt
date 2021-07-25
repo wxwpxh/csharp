@@ -1,0 +1,10 @@
+D:\1a课件\C#课件\C#课程编写\第七章\useMonitor\useMonitor\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1a课件\C#课件\C#课程编写\第七章\useMonitor\useMonitor\bin\Debug\useMonitor.exe
+D:\1a课件\C#课件\C#课程编写\第七章\useMonitor\useMonitor\bin\Debug\useMonitor.pdb
+D:\1a课件\C#课件\C#课程编写\第七章\useMonitor\useMonitor\obj\x86\Debug\useMonitor.exe
+D:\1a课件\C#课件\C#课程编写\第七章\useMonitor\useMonitor\obj\x86\Debug\useMonitor.pdb
+D:\1a课件\C#课件\C#课程编写\第七章\例7.10\useMonitor\useMonitor\obj\x86\Debug\useMonitor.exe
+D:\1a课件\C#课件\C#课程编写\第七章\例7.10\useMonitor\useMonitor\obj\x86\Debug\useMonitor.pdb
+D:\1a课件\C#课件\C#课程编写\第七章\例7.10\useMonitor\useMonitor\bin\Debug\useMonitor.exe
+D:\1a课件\C#课件\C#课程编写\第七章\例7.10\useMonitor\useMonitor\bin\Debug\useMonitor.pdb
+D:\1a课件\C#课件\C#课程编写\第七章\例7.10\useMonitor\useMonitor\obj\x86\Debug\ResolveAssemblyReference.cache

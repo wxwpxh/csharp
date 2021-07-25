@@ -1,0 +1,9 @@
+D:\1a课件\CS课件\CS课程编写\第十章\案例\习题10.4\PToP\PToP\bin\Debug\PToP.exe
+D:\1a课件\CS课件\CS课程编写\第十章\案例\习题10.4\PToP\PToP\bin\Debug\PToP.pdb
+D:\1a课件\CS课件\CS课程编写\第十章\案例\习题10.4\PToP\PToP\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1a课件\CS课件\CS课程编写\第十章\案例\习题10.4\PToP\PToP\obj\x86\Debug\PToP.Form1.resources
+D:\1a课件\CS课件\CS课程编写\第十章\案例\习题10.4\PToP\PToP\obj\x86\Debug\PToP.Properties.Resources.resources
+D:\1a课件\CS课件\CS课程编写\第十章\案例\习题10.4\PToP\PToP\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\1a课件\CS课件\CS课程编写\第十章\案例\习题10.4\PToP\PToP\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\1a课件\CS课件\CS课程编写\第十章\案例\习题10.4\PToP\PToP\obj\x86\Debug\PToP.exe
+D:\1a课件\CS课件\CS课程编写\第十章\案例\习题10.4\PToP\PToP\obj\x86\Debug\PToP.pdb

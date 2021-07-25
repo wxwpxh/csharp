@@ -1,0 +1,5 @@
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第4章\案例\例4.3\MatricAdd\MatricAdd\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第4章\案例\例4.3\MatricAdd\MatricAdd\bin\Debug\MatricAdd.exe
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第4章\案例\例4.3\MatricAdd\MatricAdd\bin\Debug\MatricAdd.pdb
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第4章\案例\例4.3\MatricAdd\MatricAdd\obj\x86\Debug\MatricAdd.exe
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第4章\案例\例4.3\MatricAdd\MatricAdd\obj\x86\Debug\MatricAdd.pdb

@@ -1,0 +1,5 @@
+D:\1a课件\CS课件\CS课程编写\第十章\案例\习题10.2\ConServer\ConServer\bin\Debug\ConServer.exe
+D:\1a课件\CS课件\CS课程编写\第十章\案例\习题10.2\ConServer\ConServer\bin\Debug\ConServer.pdb
+D:\1a课件\CS课件\CS课程编写\第十章\案例\习题10.2\ConServer\ConServer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1a课件\CS课件\CS课程编写\第十章\案例\习题10.2\ConServer\ConServer\obj\x86\Debug\ConServer.exe
+D:\1a课件\CS课件\CS课程编写\第十章\案例\习题10.2\ConServer\ConServer\obj\x86\Debug\ConServer.pdb

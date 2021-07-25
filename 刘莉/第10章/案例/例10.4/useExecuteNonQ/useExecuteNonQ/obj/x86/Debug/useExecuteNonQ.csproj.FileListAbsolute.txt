@@ -1,0 +1,5 @@
+D:\1a课件\C#课件\C#课程编写\第九章\案例\例9.4\useExecuteNonQ\useExecuteNonQ\bin\Debug\useExecuteNonQ.exe
+D:\1a课件\C#课件\C#课程编写\第九章\案例\例9.4\useExecuteNonQ\useExecuteNonQ\bin\Debug\useExecuteNonQ.pdb
+D:\1a课件\C#课件\C#课程编写\第九章\案例\例9.4\useExecuteNonQ\useExecuteNonQ\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1a课件\C#课件\C#课程编写\第九章\案例\例9.4\useExecuteNonQ\useExecuteNonQ\obj\x86\Debug\useExecuteNonQ.exe
+D:\1a课件\C#课件\C#课程编写\第九章\案例\例9.4\useExecuteNonQ\useExecuteNonQ\obj\x86\Debug\useExecuteNonQ.pdb

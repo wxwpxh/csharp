@@ -1,0 +1,15 @@
+D:\1a课件\C#课件\C#课程编写\第九章\案例\useExecuteReader\useExecuteReader\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1a课件\C#课件\C#课程编写\第九章\案例\useExecuteReader\useExecuteReader\bin\Debug\useExecuteReader.exe
+D:\1a课件\C#课件\C#课程编写\第九章\案例\useExecuteReader\useExecuteReader\bin\Debug\useExecuteReader.pdb
+D:\1a课件\C#课件\C#课程编写\第九章\案例\useExecuteReader\useExecuteReader\obj\x86\Debug\useExecuteReader.exe
+D:\1a课件\C#课件\C#课程编写\第九章\案例\useExecuteReader\useExecuteReader\obj\x86\Debug\useExecuteReader.pdb
+D:\1a课件\C#课件\C#课程编写\第九章\案例\例9.5\useExecuteReader\useExecuteReader\obj\x86\Debug\useExecuteReader.exe
+D:\1a课件\C#课件\C#课程编写\第九章\案例\例9.5\useExecuteReader\useExecuteReader\obj\x86\Debug\useExecuteReader.pdb
+D:\1a课件\C#课件\C#课程编写\第九章\案例\例9.5\useExecuteReader\useExecuteReader\bin\Debug\useExecuteReader.exe
+D:\1a课件\C#课件\C#课程编写\第九章\案例\例9.5\useExecuteReader\useExecuteReader\bin\Debug\useExecuteReader.pdb
+D:\1a课件\C#课件\C#课程编写\第九章\案例\例9.5\useExecuteReader\useExecuteReader\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1a课件\CS课件\CS课程编写\第九章\案例\例9.5\useExecuteReader\useExecuteReader\obj\x86\Debug\useExecuteReader.exe
+D:\1a课件\CS课件\CS课程编写\第九章\案例\例9.5\useExecuteReader\useExecuteReader\obj\x86\Debug\useExecuteReader.pdb
+D:\1a课件\CS课件\CS课程编写\第九章\案例\例9.5\useExecuteReader\useExecuteReader\bin\Debug\useExecuteReader.exe
+D:\1a课件\CS课件\CS课程编写\第九章\案例\例9.5\useExecuteReader\useExecuteReader\bin\Debug\useExecuteReader.pdb
+D:\1a课件\CS课件\CS课程编写\第九章\案例\例9.5\useExecuteReader\useExecuteReader\obj\x86\Debug\ResolveAssemblyReference.cache

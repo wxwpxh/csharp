@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\UDPReceive.Form1.resources
+obj\Debug\UDPReceive.Properties.Resources.resources
+obj\Debug\UDPReceive.csproj.GenerateResource.Cache
+bin\Debug\UDPReceive.exe
+bin\Debug\UDPReceive.pdb
+obj\Debug\UDPReceive.exe
+obj\Debug\UDPReceive.pdb

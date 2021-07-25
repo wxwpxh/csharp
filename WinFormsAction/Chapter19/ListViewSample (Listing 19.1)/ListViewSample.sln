@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListViewSample", "ListViewSample\ListViewSample.csproj", "{F281969E-CC13-4277-81B0-8835F38C010C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F281969E-CC13-4277-81B0-8835F38C010C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F281969E-CC13-4277-81B0-8835F38C010C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F281969E-CC13-4277-81B0-8835F38C010C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F281969E-CC13-4277-81B0-8835F38C010C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

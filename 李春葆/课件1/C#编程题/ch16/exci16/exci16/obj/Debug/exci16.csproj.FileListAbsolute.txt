@@ -1,0 +1,12 @@
+D:\C#编程题\ch16\exci16\exci16\bin\Debug\exci16.exe.config
+D:\C#编程题\ch16\exci16\exci16\bin\Debug\exci16.exe
+D:\C#编程题\ch16\exci16\exci16\bin\Debug\exci16.pdb
+D:\C#编程题\ch16\exci16\exci16\obj\Debug\exci16.Form1.resources
+D:\C#编程题\ch16\exci16\exci16\obj\Debug\exci16.Form2.resources
+D:\C#编程题\ch16\exci16\exci16\obj\Debug\exci16.Form3.resources
+D:\C#编程题\ch16\exci16\exci16\obj\Debug\exci16.Form4.resources
+D:\C#编程题\ch16\exci16\exci16\obj\Debug\exci16.Form5.resources
+D:\C#编程题\ch16\exci16\exci16\obj\Debug\exci16.Properties.Resources.resources
+D:\C#编程题\ch16\exci16\exci16\obj\Debug\exci16.csproj.GenerateResource.Cache
+D:\C#编程题\ch16\exci16\exci16\obj\Debug\exci16.exe
+D:\C#编程题\ch16\exci16\exci16\obj\Debug\exci16.pdb

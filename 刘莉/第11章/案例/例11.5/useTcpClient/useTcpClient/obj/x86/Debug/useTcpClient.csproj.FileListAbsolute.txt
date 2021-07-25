@@ -1,0 +1,5 @@
+D:\1a课件\CS课件\CS课程编写\第十章\案例\例10.5\useTcpClient\useTcpClient\bin\Debug\useTcpClient.exe
+D:\1a课件\CS课件\CS课程编写\第十章\案例\例10.5\useTcpClient\useTcpClient\bin\Debug\useTcpClient.pdb
+D:\1a课件\CS课件\CS课程编写\第十章\案例\例10.5\useTcpClient\useTcpClient\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1a课件\CS课件\CS课程编写\第十章\案例\例10.5\useTcpClient\useTcpClient\obj\x86\Debug\useTcpClient.exe
+D:\1a课件\CS课件\CS课程编写\第十章\案例\例10.5\useTcpClient\useTcpClient\obj\x86\Debug\useTcpClient.pdb

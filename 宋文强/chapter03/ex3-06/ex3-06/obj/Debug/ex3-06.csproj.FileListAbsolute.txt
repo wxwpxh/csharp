@@ -1,0 +1,8 @@
+F:\C#教材\教材例题\chapter03\ex3-06\ex3-06\obj\Debug\ex3-06.exe
+F:\C#教材\教材例题\chapter03\ex3-06\ex3-06\obj\Debug\ex3-06.pdb
+F:\C#教材\教材例题\chapter03\ex3-06\ex3-06\bin\Debug\ex3-06.exe
+F:\C#教材\教材例题\chapter03\ex3-06\ex3-06\bin\Debug\ex3-06.pdb
+F:\C#教材\教材例题\chapter03\ex3-06\ex3-06\obj\Debug\ResolveAssemblyReference.cache
+F:\C#教材\教材例题\chapter03\ex3-06\ex3-06\obj\Debug\ex3_06.Form1.resources
+F:\C#教材\教材例题\chapter03\ex3-06\ex3-06\obj\Debug\ex3_06.Properties.Resources.resources
+F:\C#教材\教材例题\chapter03\ex3-06\ex3-06\obj\Debug\ex3-06.csproj.GenerateResource.Cache

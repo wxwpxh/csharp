@@ -1,0 +1,5 @@
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第2章\案例\例2.8\DaysofMonth\DaysofMonth\bin\Debug\DaysofMonth.exe
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第2章\案例\例2.8\DaysofMonth\DaysofMonth\bin\Debug\DaysofMonth.pdb
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第2章\案例\例2.8\DaysofMonth\DaysofMonth\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第2章\案例\例2.8\DaysofMonth\DaysofMonth\obj\x86\Debug\DaysofMonth.exe
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第2章\案例\例2.8\DaysofMonth\DaysofMonth\obj\x86\Debug\DaysofMonth.pdb

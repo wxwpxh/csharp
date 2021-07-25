@@ -1,0 +1,10 @@
+D:\1a课件\C#课件\C#课程编写\第一章\Sum\Sum\bin\Debug\Sum.exe
+D:\1a课件\C#课件\C#课程编写\第一章\Sum\Sum\bin\Debug\Sum.pdb
+D:\1a课件\C#课件\C#课程编写\第一章\Sum\Sum\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1a课件\C#课件\C#课程编写\第一章\Sum\Sum\obj\x86\Debug\Sum.exe
+D:\1a课件\C#课件\C#课程编写\第一章\Sum\Sum\obj\x86\Debug\Sum.pdb
+D:\1a课件\CS课件\CS课程编写\第一章\案例\例1.3\Sum\Sum\obj\x86\Debug\Sum.exe
+D:\1a课件\CS课件\CS课程编写\第一章\案例\例1.3\Sum\Sum\obj\x86\Debug\Sum.pdb
+D:\1a课件\CS课件\CS课程编写\第一章\案例\例1.3\Sum\Sum\bin\Debug\Sum.exe
+D:\1a课件\CS课件\CS课程编写\第一章\案例\例1.3\Sum\Sum\bin\Debug\Sum.pdb
+D:\1a课件\CS课件\CS课程编写\第一章\案例\例1.3\Sum\Sum\obj\x86\Debug\ResolveAssemblyReference.cache

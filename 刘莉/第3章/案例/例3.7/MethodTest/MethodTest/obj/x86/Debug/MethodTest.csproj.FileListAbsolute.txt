@@ -1,0 +1,5 @@
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第3章\案例\例3.7\MethodTest\MethodTest\bin\Debug\MethodTest.exe
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第3章\案例\例3.7\MethodTest\MethodTest\bin\Debug\MethodTest.pdb
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第3章\案例\例3.7\MethodTest\MethodTest\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第3章\案例\例3.7\MethodTest\MethodTest\obj\x86\Debug\MethodTest.exe
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第3章\案例\例3.7\MethodTest\MethodTest\obj\x86\Debug\MethodTest.pdb

@@ -1,0 +1,5 @@
+D:\1a课件\CS课件\CS课程编写\第十章\案例\习题10.1\ClientText\ClientText\bin\Debug\ClientText.exe
+D:\1a课件\CS课件\CS课程编写\第十章\案例\习题10.1\ClientText\ClientText\bin\Debug\ClientText.pdb
+D:\1a课件\CS课件\CS课程编写\第十章\案例\习题10.1\ClientText\ClientText\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1a课件\CS课件\CS课程编写\第十章\案例\习题10.1\ClientText\ClientText\obj\x86\Debug\ClientText.exe
+D:\1a课件\CS课件\CS课程编写\第十章\案例\习题10.1\ClientText\ClientText\obj\x86\Debug\ClientText.pdb

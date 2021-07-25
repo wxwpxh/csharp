@@ -1,0 +1,9 @@
+D:\C#程序设计\第六章\第六章案例\UseNumericUpDown\bin\Debug\UseNumericUpDown.exe
+D:\C#程序设计\第六章\第六章案例\UseNumericUpDown\bin\Debug\UseNumericUpDown.pdb
+D:\C#程序设计\第六章\第六章案例\UseNumericUpDown\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\C#程序设计\第六章\第六章案例\UseNumericUpDown\obj\x86\Debug\UseNumericUpDown.Form1.resources
+D:\C#程序设计\第六章\第六章案例\UseNumericUpDown\obj\x86\Debug\UseNumericUpDown.Properties.Resources.resources
+D:\C#程序设计\第六章\第六章案例\UseNumericUpDown\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\C#程序设计\第六章\第六章案例\UseNumericUpDown\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\C#程序设计\第六章\第六章案例\UseNumericUpDown\obj\x86\Debug\UseNumericUpDown.exe
+D:\C#程序设计\第六章\第六章案例\UseNumericUpDown\obj\x86\Debug\UseNumericUpDown.pdb

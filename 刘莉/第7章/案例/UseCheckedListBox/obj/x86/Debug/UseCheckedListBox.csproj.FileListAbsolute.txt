@@ -1,0 +1,9 @@
+D:\C#程序设计\第六章\高级控件\UseCheckedListBox\bin\Debug\UseCheckedListBox.exe
+D:\C#程序设计\第六章\高级控件\UseCheckedListBox\bin\Debug\UseCheckedListBox.pdb
+D:\C#程序设计\第六章\高级控件\UseCheckedListBox\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\C#程序设计\第六章\高级控件\UseCheckedListBox\obj\x86\Debug\UseCheckedListBox.Form1.resources
+D:\C#程序设计\第六章\高级控件\UseCheckedListBox\obj\x86\Debug\UseCheckedListBox.Properties.Resources.resources
+D:\C#程序设计\第六章\高级控件\UseCheckedListBox\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\C#程序设计\第六章\高级控件\UseCheckedListBox\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\C#程序设计\第六章\高级控件\UseCheckedListBox\obj\x86\Debug\UseCheckedListBox.exe
+D:\C#程序设计\第六章\高级控件\UseCheckedListBox\obj\x86\Debug\UseCheckedListBox.pdb

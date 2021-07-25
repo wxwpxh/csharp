@@ -1,0 +1,12 @@
+D:\1a课件\C#课件\C#课程编写\第七章\currentInfo\currentInfo\bin\Debug\currentInfo.exe
+D:\1a课件\C#课件\C#课程编写\第七章\currentInfo\currentInfo\bin\Debug\currentInfo.pdb
+D:\1a课件\C#课件\C#课程编写\第七章\currentInfo\currentInfo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1a课件\C#课件\C#课程编写\第七章\currentInfo\currentInfo\obj\x86\Debug\currentInfo.exe
+D:\1a课件\C#课件\C#课程编写\第七章\currentInfo\currentInfo\obj\x86\Debug\currentInfo.pdb
+D:\1a课件\C#课件\C#课程编写\第七章\例7.3\currentInfo\currentInfo\obj\x86\Debug\currentInfo.exe
+D:\1a课件\C#课件\C#课程编写\第七章\例7.3\currentInfo\currentInfo\obj\x86\Debug\currentInfo.pdb
+D:\1a课件\CS课件\CS课程编写\第七章\案例\例7.3\currentInfo\currentInfo\obj\x86\Debug\currentInfo.exe
+D:\1a课件\CS课件\CS课程编写\第七章\案例\例7.3\currentInfo\currentInfo\obj\x86\Debug\currentInfo.pdb
+D:\1a课件\CS课件\CS课程编写\第七章\案例\例7.3\currentInfo\currentInfo\bin\Debug\currentInfo.exe
+D:\1a课件\CS课件\CS课程编写\第七章\案例\例7.3\currentInfo\currentInfo\bin\Debug\currentInfo.pdb
+D:\1a课件\CS课件\CS课程编写\第七章\案例\例7.3\currentInfo\currentInfo\obj\x86\Debug\ResolveAssemblyReference.cache

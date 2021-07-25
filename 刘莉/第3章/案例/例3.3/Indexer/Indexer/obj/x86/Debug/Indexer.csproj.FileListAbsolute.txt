@@ -1,0 +1,5 @@
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第3章\案例\例3.3\Indexer\Indexer\bin\Debug\Indexer.exe
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第3章\案例\例3.3\Indexer\Indexer\bin\Debug\Indexer.pdb
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第3章\案例\例3.3\Indexer\Indexer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第3章\案例\例3.3\Indexer\Indexer\obj\x86\Debug\Indexer.exe
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第3章\案例\例3.3\Indexer\Indexer\obj\x86\Debug\Indexer.pdb

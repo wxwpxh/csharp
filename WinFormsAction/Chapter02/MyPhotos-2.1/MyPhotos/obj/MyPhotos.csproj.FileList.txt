@@ -1,0 +1,7 @@
+bin\Debug\MyPhotos.exe
+bin\Debug\MyPhotos.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MyPhotos.Properties.Resources.resources
+obj\Debug\MyPhotos.csproj.GenerateResource.Cache
+obj\Debug\MyPhotos.exe
+obj\Debug\MyPhotos.pdb

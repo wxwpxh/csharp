@@ -1,0 +1,9 @@
+D:\C#程序设计\第六章\高级控件\UseTreeView\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\C#程序设计\第六章\高级控件\UseTreeView\obj\x86\Debug\UseTreeView.Form1.resources
+D:\C#程序设计\第六章\高级控件\UseTreeView\obj\x86\Debug\UseTreeView.Properties.Resources.resources
+D:\C#程序设计\第六章\高级控件\UseTreeView\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\C#程序设计\第六章\高级控件\UseTreeView\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\C#程序设计\第六章\高级控件\UseTreeView\bin\Debug\UseTreeView.exe
+D:\C#程序设计\第六章\高级控件\UseTreeView\bin\Debug\UseTreeView.pdb
+D:\C#程序设计\第六章\高级控件\UseTreeView\obj\x86\Debug\UseTreeView.exe
+D:\C#程序设计\第六章\高级控件\UseTreeView\obj\x86\Debug\UseTreeView.pdb

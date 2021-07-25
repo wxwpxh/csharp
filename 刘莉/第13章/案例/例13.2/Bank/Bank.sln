@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bank", "Bank\Bank.csproj", "{2B2CC0D6-3BA3-493A-822C-D85D536618E4}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{DC05B710-5E15-4AE3-A356-6AB1EB27A75B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B2CC0D6-3BA3-493A-822C-D85D536618E4}.Debug|x86.ActiveCfg = Debug|x86
+		{2B2CC0D6-3BA3-493A-822C-D85D536618E4}.Debug|x86.Build.0 = Debug|x86
+		{2B2CC0D6-3BA3-493A-822C-D85D536618E4}.Release|x86.ActiveCfg = Release|x86
+		{2B2CC0D6-3BA3-493A-822C-D85D536618E4}.Release|x86.Build.0 = Release|x86
+		{DC05B710-5E15-4AE3-A356-6AB1EB27A75B}.Debug|x86.ActiveCfg = Debug
+		{DC05B710-5E15-4AE3-A356-6AB1EB27A75B}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

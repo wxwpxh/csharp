@@ -1,0 +1,5 @@
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第3章\案例\例3.8\Instance_Constructor\Instance_Constructor\bin\Debug\Instance_Constructor.exe
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第3章\案例\例3.8\Instance_Constructor\Instance_Constructor\bin\Debug\Instance_Constructor.pdb
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第3章\案例\例3.8\Instance_Constructor\Instance_Constructor\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第3章\案例\例3.8\Instance_Constructor\Instance_Constructor\obj\x86\Debug\Instance_Constructor.exe
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第3章\案例\例3.8\Instance_Constructor\Instance_Constructor\obj\x86\Debug\Instance_Constructor.pdb

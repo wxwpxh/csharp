@@ -1,0 +1,6 @@
+D:\prg\csharp\宋文强\chapter01\ex1-01\ex1-01\bin\Debug\ex1-01.pdb
+D:\prg\csharp\宋文强\chapter01\ex1-01\ex1-01\obj\Debug\ex1-01.csprojAssemblyReference.cache
+D:\prg\csharp\宋文强\chapter01\ex1-01\ex1-01\obj\Debug\ex1-01.csproj.CoreCompileInputs.cache
+D:\prg\csharp\宋文强\chapter01\ex1-01\ex1-01\obj\Debug\ex1-01.pdb
+D:\prg\csharp\宋文强\chapter01\ex1-01\ex1-01\bin\Debug\ex1-01.exe
+D:\prg\csharp\宋文强\chapter01\ex1-01\ex1-01\obj\Debug\ex1-01.exe

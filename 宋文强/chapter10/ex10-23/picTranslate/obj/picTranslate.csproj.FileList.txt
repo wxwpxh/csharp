@@ -1,0 +1,8 @@
+bin\Debug\picTranslate.exe
+bin\Debug\picTranslate.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\picTranslate.Form1.resources
+obj\Debug\picTranslate.Properties.Resources.resources
+obj\Debug\picTranslate.csproj.GenerateResource.Cache
+obj\Debug\picTranslate.exe
+obj\Debug\picTranslate.pdb

@@ -1,0 +1,5 @@
+F:\C#教材\教材例题\chapter12\ex12-05\ex12-05\bin\ex12-05.dll
+F:\C#教材\教材例题\chapter12\ex12-05\ex12-05\bin\ex12-05.pdb
+F:\C#教材\教材例题\chapter12\ex12-05\ex12-05\obj\Debug\ResolveAssemblyReference.cache
+F:\C#教材\教材例题\chapter12\ex12-05\ex12-05\obj\Debug\ex12-05.dll
+F:\C#教材\教材例题\chapter12\ex12-05\ex12-05\obj\Debug\ex12-05.pdb

@@ -1,0 +1,8 @@
+D:\C#实验\ch15\experment15\experment15\bin\Debug\experment15.exe.config
+D:\C#实验\ch15\experment15\experment15\bin\Debug\experment15.exe
+D:\C#实验\ch15\experment15\experment15\bin\Debug\experment15.pdb
+D:\C#实验\ch15\experment15\experment15\obj\Debug\experment15.Form1.resources
+D:\C#实验\ch15\experment15\experment15\obj\Debug\experment15.Properties.Resources.resources
+D:\C#实验\ch15\experment15\experment15\obj\Debug\experment15.csproj.GenerateResource.Cache
+D:\C#实验\ch15\experment15\experment15\obj\Debug\experment15.exe
+D:\C#实验\ch15\experment15\experment15\obj\Debug\experment15.pdb

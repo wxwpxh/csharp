@@ -1,0 +1,9 @@
+D:\1a课件\Windows程序设计1\教材原始\《C#语言Windows程序设计》源码\chpt8\chpt8-3\UDPSend\UDPSend\obj\Debug\UDPSend.exe
+D:\1a课件\Windows程序设计1\教材原始\《C#语言Windows程序设计》源码\chpt8\chpt8-3\UDPSend\UDPSend\obj\Debug\UDPSend.pdb
+D:\1a课件\Windows程序设计1\教材原始\《C#语言Windows程序设计》源码\chpt8\chpt8-3\UDPSend\UDPSend\bin\Debug\UDPSend.exe
+D:\1a课件\Windows程序设计1\教材原始\《C#语言Windows程序设计》源码\chpt8\chpt8-3\UDPSend\UDPSend\bin\Debug\UDPSend.pdb
+D:\1a课件\Windows程序设计1\教材原始\《C#语言Windows程序设计》源码\chpt8\chpt8-3\UDPSend\UDPSend\obj\Debug\ResolveAssemblyReference.cache
+D:\1a课件\Windows程序设计1\教材原始\《C#语言Windows程序设计》源码\chpt8\chpt8-3\UDPSend\UDPSend\obj\Debug\UDPSend.Form1.resources
+D:\1a课件\Windows程序设计1\教材原始\《C#语言Windows程序设计》源码\chpt8\chpt8-3\UDPSend\UDPSend\obj\Debug\UDPSend.Properties.Resources.resources
+D:\1a课件\CS课件\CS课程编写\第十章\案例\例10.11\UDPSend\UDPSend\obj\Debug\UDPSend.exe
+D:\1a课件\CS课件\CS课程编写\第十章\案例\例10.11\UDPSend\UDPSend\obj\Debug\UDPSend.pdb

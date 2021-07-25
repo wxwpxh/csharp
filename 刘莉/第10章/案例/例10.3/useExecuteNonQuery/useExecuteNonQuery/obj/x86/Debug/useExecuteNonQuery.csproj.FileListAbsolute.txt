@@ -1,0 +1,10 @@
+D:\1a课件\C#课件\C#课程编写\第九章\案例\useExecuteNonQuery\useExecuteNonQuery\bin\Debug\useExecuteNonQuery.exe
+D:\1a课件\C#课件\C#课程编写\第九章\案例\useExecuteNonQuery\useExecuteNonQuery\bin\Debug\useExecuteNonQuery.pdb
+D:\1a课件\C#课件\C#课程编写\第九章\案例\useExecuteNonQuery\useExecuteNonQuery\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1a课件\C#课件\C#课程编写\第九章\案例\useExecuteNonQuery\useExecuteNonQuery\obj\x86\Debug\useExecuteNonQuery.exe
+D:\1a课件\C#课件\C#课程编写\第九章\案例\useExecuteNonQuery\useExecuteNonQuery\obj\x86\Debug\useExecuteNonQuery.pdb
+D:\1a课件\C#课件\C#课程编写\第九章\案例\例9.3\useExecuteNonQuery\useExecuteNonQuery\obj\x86\Debug\useExecuteNonQuery.exe
+D:\1a课件\C#课件\C#课程编写\第九章\案例\例9.3\useExecuteNonQuery\useExecuteNonQuery\obj\x86\Debug\useExecuteNonQuery.pdb
+D:\1a课件\C#课件\C#课程编写\第九章\案例\例9.3\useExecuteNonQuery\useExecuteNonQuery\bin\Debug\useExecuteNonQuery.exe
+D:\1a课件\C#课件\C#课程编写\第九章\案例\例9.3\useExecuteNonQuery\useExecuteNonQuery\bin\Debug\useExecuteNonQuery.pdb
+D:\1a课件\C#课件\C#课程编写\第九章\案例\例9.3\useExecuteNonQuery\useExecuteNonQuery\obj\x86\Debug\ResolveAssemblyReference.cache

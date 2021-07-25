@@ -1,0 +1,10 @@
+D:\1a课件\C#课件\C#课程编写\第一章\HelloName\HelloName\bin\Debug\HelloName.exe
+D:\1a课件\C#课件\C#课程编写\第一章\HelloName\HelloName\bin\Debug\HelloName.pdb
+D:\1a课件\C#课件\C#课程编写\第一章\HelloName\HelloName\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1a课件\C#课件\C#课程编写\第一章\HelloName\HelloName\obj\x86\Debug\HelloName.exe
+D:\1a课件\C#课件\C#课程编写\第一章\HelloName\HelloName\obj\x86\Debug\HelloName.pdb
+D:\1a课件\CS课件\CS课程编写\第一章\案例\习题1.1\HelloName\HelloName\obj\x86\Debug\HelloName.exe
+D:\1a课件\CS课件\CS课程编写\第一章\案例\习题1.1\HelloName\HelloName\obj\x86\Debug\HelloName.pdb
+D:\1a课件\CS课件\CS课程编写\第一章\案例\习题1.1\HelloName\HelloName\bin\Debug\HelloName.exe
+D:\1a课件\CS课件\CS课程编写\第一章\案例\习题1.1\HelloName\HelloName\bin\Debug\HelloName.pdb
+D:\1a课件\CS课件\CS课程编写\第一章\案例\习题1.1\HelloName\HelloName\obj\x86\Debug\ResolveAssemblyReference.cache

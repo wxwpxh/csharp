@@ -1,0 +1,5 @@
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第2章\案例\例2.6\MaxOfTwoNumber\MaxOfTwoNumber\bin\Debug\MaxOfTwoNumber.exe
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第2章\案例\例2.6\MaxOfTwoNumber\MaxOfTwoNumber\bin\Debug\MaxOfTwoNumber.pdb
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第2章\案例\例2.6\MaxOfTwoNumber\MaxOfTwoNumber\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第2章\案例\例2.6\MaxOfTwoNumber\MaxOfTwoNumber\obj\x86\Debug\MaxOfTwoNumber.exe
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第2章\案例\例2.6\MaxOfTwoNumber\MaxOfTwoNumber\obj\x86\Debug\MaxOfTwoNumber.pdb

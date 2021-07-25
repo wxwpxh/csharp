@@ -1,0 +1,17 @@
+D:\1a课件\C#课件\C#课程编写\第二章\useProcess\useProcess\bin\Debug\useProcess.exe
+D:\1a课件\C#课件\C#课程编写\第二章\useProcess\useProcess\bin\Debug\useProcess.pdb
+D:\1a课件\C#课件\C#课程编写\第二章\useProcess\useProcess\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1a课件\C#课件\C#课程编写\第二章\useProcess\useProcess\obj\x86\Debug\useProcess.exe
+D:\1a课件\C#课件\C#课程编写\第二章\useProcess\useProcess\obj\x86\Debug\useProcess.pdb
+D:\1a课件\C#课件\C#课程编写\第七章\useProcess\useProcess\obj\x86\Debug\useProcess.exe
+D:\1a课件\C#课件\C#课程编写\第七章\useProcess\useProcess\obj\x86\Debug\useProcess.pdb
+D:\1a课件\C#课件\C#课程编写\第七章\useProcess\useProcess\bin\Debug\useProcess.exe
+D:\1a课件\C#课件\C#课程编写\第七章\useProcess\useProcess\bin\Debug\useProcess.pdb
+D:\1a课件\C#课件\C#课程编写\第七章\useProcess\useProcess\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1a课件\C#课件\C#课程编写\第七章\例7.1\useProcess\useProcess\obj\x86\Debug\useProcess.exe
+D:\1a课件\C#课件\C#课程编写\第七章\例7.1\useProcess\useProcess\obj\x86\Debug\useProcess.pdb
+D:\1a课件\CS课件\CS课程编写\第七章\案例\例7.1\useProcess\useProcess\obj\x86\Debug\useProcess.exe
+D:\1a课件\CS课件\CS课程编写\第七章\案例\例7.1\useProcess\useProcess\obj\x86\Debug\useProcess.pdb
+D:\1a课件\CS课件\CS课程编写\第七章\案例\例7.1\useProcess\useProcess\bin\Debug\useProcess.exe
+D:\1a课件\CS课件\CS课程编写\第七章\案例\例7.1\useProcess\useProcess\bin\Debug\useProcess.pdb
+D:\1a课件\CS课件\CS课程编写\第七章\案例\例7.1\useProcess\useProcess\obj\x86\Debug\ResolveAssemblyReference.cache

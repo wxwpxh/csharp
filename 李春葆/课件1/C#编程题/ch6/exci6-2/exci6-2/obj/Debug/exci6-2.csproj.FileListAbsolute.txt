@@ -1,0 +1,5 @@
+D:\C#编程题\ch6\exci6-2\exci6-2\bin\Debug\exci6-2.exe.config
+D:\C#编程题\ch6\exci6-2\exci6-2\bin\Debug\exci6-2.exe
+D:\C#编程题\ch6\exci6-2\exci6-2\bin\Debug\exci6-2.pdb
+D:\C#编程题\ch6\exci6-2\exci6-2\obj\Debug\exci6-2.exe
+D:\C#编程题\ch6\exci6-2\exci6-2\obj\Debug\exci6-2.pdb

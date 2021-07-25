@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyAlbumExplorer", "MyAlbumExplorer.csproj", "{FD7A83BA-564D-4DB6-8969-1FA79031B631}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyPhotoAlbum", "..\MyPhotoAlbum\MyPhotoAlbum.csproj", "{4017EF07-8DBF-4BB4-86DC-0CFA94EE939A}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{FD7A83BA-564D-4DB6-8969-1FA79031B631}.Debug.ActiveCfg = Debug|.NET
+		{FD7A83BA-564D-4DB6-8969-1FA79031B631}.Debug.Build.0 = Debug|.NET
+		{FD7A83BA-564D-4DB6-8969-1FA79031B631}.Release.ActiveCfg = Release|.NET
+		{FD7A83BA-564D-4DB6-8969-1FA79031B631}.Release.Build.0 = Release|.NET
+		{4017EF07-8DBF-4BB4-86DC-0CFA94EE939A}.Debug.ActiveCfg = Debug|.NET
+		{4017EF07-8DBF-4BB4-86DC-0CFA94EE939A}.Debug.Build.0 = Debug|.NET
+		{4017EF07-8DBF-4BB4-86DC-0CFA94EE939A}.Release.ActiveCfg = Release|.NET
+		{4017EF07-8DBF-4BB4-86DC-0CFA94EE939A}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

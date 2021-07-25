@@ -1,0 +1,5 @@
+D:\C#实验\ch5\experment5-2\experment5-2\bin\Debug\experment5-2.exe.config
+D:\C#实验\ch5\experment5-2\experment5-2\bin\Debug\experment5-2.exe
+D:\C#实验\ch5\experment5-2\experment5-2\bin\Debug\experment5-2.pdb
+D:\C#实验\ch5\experment5-2\experment5-2\obj\Debug\experment5-2.exe
+D:\C#实验\ch5\experment5-2\experment5-2\obj\Debug\experment5-2.pdb

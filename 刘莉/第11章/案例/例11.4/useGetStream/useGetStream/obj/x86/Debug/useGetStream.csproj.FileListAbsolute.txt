@@ -1,0 +1,5 @@
+D:\1a课件\CS课件\CS课程编写\第十章\案例\例10.4\useGetStream\useGetStream\bin\Debug\useGetStream.exe
+D:\1a课件\CS课件\CS课程编写\第十章\案例\例10.4\useGetStream\useGetStream\bin\Debug\useGetStream.pdb
+D:\1a课件\CS课件\CS课程编写\第十章\案例\例10.4\useGetStream\useGetStream\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1a课件\CS课件\CS课程编写\第十章\案例\例10.4\useGetStream\useGetStream\obj\x86\Debug\useGetStream.exe
+D:\1a课件\CS课件\CS课程编写\第十章\案例\例10.4\useGetStream\useGetStream\obj\x86\Debug\useGetStream.pdb

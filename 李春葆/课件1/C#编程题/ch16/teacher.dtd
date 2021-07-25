@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="GB2312"?>
+<!ELEMENT 教师 (姓名,职称)>
+<!ELEMENT 姓名 (#PCDATA)>
+<!ELEMENT 职称 (#PCDATA)>

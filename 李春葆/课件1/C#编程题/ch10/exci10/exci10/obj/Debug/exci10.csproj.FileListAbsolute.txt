@@ -1,0 +1,8 @@
+D:\C#编程题\ch10\exci10\exci10\bin\Debug\exci10.exe.config
+D:\C#编程题\ch10\exci10\exci10\bin\Debug\exci10.exe
+D:\C#编程题\ch10\exci10\exci10\bin\Debug\exci10.pdb
+D:\C#编程题\ch10\exci10\exci10\obj\Debug\exci10.Form1.resources
+D:\C#编程题\ch10\exci10\exci10\obj\Debug\exci10.Properties.Resources.resources
+D:\C#编程题\ch10\exci10\exci10\obj\Debug\exci10.csproj.GenerateResource.Cache
+D:\C#编程题\ch10\exci10\exci10\obj\Debug\exci10.exe
+D:\C#编程题\ch10\exci10\exci10\obj\Debug\exci10.pdb

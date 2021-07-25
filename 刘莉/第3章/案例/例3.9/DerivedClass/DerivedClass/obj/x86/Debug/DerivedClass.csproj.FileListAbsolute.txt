@@ -1,0 +1,5 @@
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第3章\案例\例3.9\DerivedClass\DerivedClass\bin\Debug\DerivedClass.exe
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第3章\案例\例3.9\DerivedClass\DerivedClass\bin\Debug\DerivedClass.pdb
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第3章\案例\例3.9\DerivedClass\DerivedClass\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第3章\案例\例3.9\DerivedClass\DerivedClass\obj\x86\Debug\DerivedClass.exe
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第3章\案例\例3.9\DerivedClass\DerivedClass\obj\x86\Debug\DerivedClass.pdb

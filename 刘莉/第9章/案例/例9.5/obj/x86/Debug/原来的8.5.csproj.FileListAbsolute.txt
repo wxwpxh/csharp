@@ -1,0 +1,9 @@
+D:\C#程序设计\第八章\第八章 文件操作\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\C#程序设计\第八章\第八章 文件操作\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+D:\C#程序设计\第八章\第八章 文件操作\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\C#程序设计\第八章\第八章 文件操作\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\C#程序设计\第八章\第八章 文件操作\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\第9章\第9章\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Administrator\Desktop\第9章\第9章\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Administrator\Desktop\第9章\第9章\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Administrator\Desktop\第9章\第9章\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb

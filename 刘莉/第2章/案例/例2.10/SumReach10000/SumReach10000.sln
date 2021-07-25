@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumReach10000", "SumReach10000\SumReach10000.csproj", "{C626BAF6-CCBD-4337-947A-2BE2450AC4FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C626BAF6-CCBD-4337-947A-2BE2450AC4FE}.Debug|x86.ActiveCfg = Debug|x86
+		{C626BAF6-CCBD-4337-947A-2BE2450AC4FE}.Debug|x86.Build.0 = Debug|x86
+		{C626BAF6-CCBD-4337-947A-2BE2450AC4FE}.Release|x86.ActiveCfg = Release|x86
+		{C626BAF6-CCBD-4337-947A-2BE2450AC4FE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

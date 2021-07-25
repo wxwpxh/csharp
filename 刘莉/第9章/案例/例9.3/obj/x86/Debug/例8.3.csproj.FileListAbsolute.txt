@@ -1,0 +1,7 @@
+D:\C#程序设计\第八章\第八章 文件操作\例8.3\bin\Debug\例8.3.exe
+D:\C#程序设计\第八章\第八章 文件操作\例8.3\bin\Debug\例8.3.pdb
+D:\C#程序设计\第八章\第八章 文件操作\例8.3\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\C#程序设计\第八章\第八章 文件操作\例8.3\obj\x86\Debug\例8.3.exe
+D:\C#程序设计\第八章\第八章 文件操作\例8.3\obj\x86\Debug\例8.3.pdb
+D:\上海大学相关材料\E\鲁东大学材料\刘莉C#书稿2014\课件\第9章\例8.3\obj\x86\Debug\例8.3.exe
+D:\上海大学相关材料\E\鲁东大学材料\刘莉C#书稿2014\课件\第9章\例8.3\obj\x86\Debug\例8.3.pdb

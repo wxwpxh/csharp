@@ -1,0 +1,10 @@
+D:\1a课件\C#课件\C#课程编写\第七章\threadWork\threadWork\bin\Debug\threadWork.exe
+D:\1a课件\C#课件\C#课程编写\第七章\threadWork\threadWork\bin\Debug\threadWork.pdb
+D:\1a课件\C#课件\C#课程编写\第七章\threadWork\threadWork\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1a课件\C#课件\C#课程编写\第七章\threadWork\threadWork\obj\x86\Debug\threadWork.exe
+D:\1a课件\C#课件\C#课程编写\第七章\threadWork\threadWork\obj\x86\Debug\threadWork.pdb
+D:\1a课件\CS课件\CS课程编写\第七章\案例\习题7.1\threadWork\threadWork\obj\x86\Debug\threadWork.exe
+D:\1a课件\CS课件\CS课程编写\第七章\案例\习题7.1\threadWork\threadWork\obj\x86\Debug\threadWork.pdb
+D:\1a课件\CS课件\CS课程编写\第七章\案例\习题7.1\threadWork\threadWork\bin\Debug\threadWork.exe
+D:\1a课件\CS课件\CS课程编写\第七章\案例\习题7.1\threadWork\threadWork\bin\Debug\threadWork.pdb
+D:\1a课件\CS课件\CS课程编写\第七章\案例\习题7.1\threadWork\threadWork\obj\x86\Debug\ResolveAssemblyReference.cache

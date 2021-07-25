@@ -1,0 +1,12 @@
+D:\C#编程题\ch17\exci17\exci17\bin\Debug\exci17.exe.config
+D:\C#编程题\ch17\exci17\exci17\bin\Debug\exci17.exe
+D:\C#编程题\ch17\exci17\exci17\bin\Debug\exci17.pdb
+D:\C#编程题\ch17\exci17\exci17\obj\Debug\exci17.csprojResolveAssemblyReference.cache
+D:\C#编程题\ch17\exci17\exci17\obj\Debug\exci17.Form1.resources
+D:\C#编程题\ch17\exci17\exci17\obj\Debug\exci17.Properties.Resources.resources
+D:\C#编程题\ch17\exci17\exci17\obj\Debug\exci17.csproj.GenerateResource.Cache
+D:\C#编程题\ch17\exci17\exci17\obj\Debug\exci17.exe
+D:\C#编程题\ch17\exci17\exci17\obj\Debug\exci17.pdb
+D:\C#编程题\ch17\exci17\exci17\obj\Debug\exci17.Form2.resources
+D:\C#编程题\ch17\exci17\exci17\obj\Debug\exci17.Form3.resources
+D:\C#编程题\ch17\exci17\exci17\obj\Debug\exci17.Form4.resources

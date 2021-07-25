@@ -1,0 +1,5 @@
+D:\1a课件\CS课件\CS课程编写\第十章\案例\习题10.3\UdpClientTest\UdpClientTest\bin\Debug\UdpClientTest.exe
+D:\1a课件\CS课件\CS课程编写\第十章\案例\习题10.3\UdpClientTest\UdpClientTest\bin\Debug\UdpClientTest.pdb
+D:\1a课件\CS课件\CS课程编写\第十章\案例\习题10.3\UdpClientTest\UdpClientTest\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1a课件\CS课件\CS课程编写\第十章\案例\习题10.3\UdpClientTest\UdpClientTest\obj\x86\Debug\UdpClientTest.exe
+D:\1a课件\CS课件\CS课程编写\第十章\案例\习题10.3\UdpClientTest\UdpClientTest\obj\x86\Debug\UdpClientTest.pdb

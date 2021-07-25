@@ -1,0 +1,5 @@
+D:\1a课件\CS课件\CS课程编写\第十章\案例\例10.1\useListen\useListen\bin\Debug\useListen.exe
+D:\1a课件\CS课件\CS课程编写\第十章\案例\例10.1\useListen\useListen\bin\Debug\useListen.pdb
+D:\1a课件\CS课件\CS课程编写\第十章\案例\例10.1\useListen\useListen\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1a课件\CS课件\CS课程编写\第十章\案例\例10.1\useListen\useListen\obj\x86\Debug\useListen.exe
+D:\1a课件\CS课件\CS课程编写\第十章\案例\例10.1\useListen\useListen\obj\x86\Debug\useListen.pdb

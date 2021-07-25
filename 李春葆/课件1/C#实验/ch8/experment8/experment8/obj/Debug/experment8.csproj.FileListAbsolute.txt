@@ -1,0 +1,6 @@
+D:\C#实验\ch8\experment8\experment8\bin\Debug\experment8.exe.config
+D:\C#实验\ch8\experment8\experment8\bin\Debug\experment8.exe
+D:\C#实验\ch8\experment8\experment8\bin\Debug\experment8.pdb
+D:\C#实验\ch8\experment8\experment8\obj\Debug\experment8.csprojResolveAssemblyReference.cache
+D:\C#实验\ch8\experment8\experment8\obj\Debug\experment8.exe
+D:\C#实验\ch8\experment8\experment8\obj\Debug\experment8.pdb

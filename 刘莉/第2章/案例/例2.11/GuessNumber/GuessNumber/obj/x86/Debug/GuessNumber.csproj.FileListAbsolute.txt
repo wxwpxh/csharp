@@ -1,0 +1,5 @@
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第2章\案例\例2.11\GuessNumber\GuessNumber\bin\Debug\GuessNumber.exe
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第2章\案例\例2.11\GuessNumber\GuessNumber\bin\Debug\GuessNumber.pdb
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第2章\案例\例2.11\GuessNumber\GuessNumber\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第2章\案例\例2.11\GuessNumber\GuessNumber\obj\x86\Debug\GuessNumber.exe
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第2章\案例\例2.11\GuessNumber\GuessNumber\obj\x86\Debug\GuessNumber.pdb

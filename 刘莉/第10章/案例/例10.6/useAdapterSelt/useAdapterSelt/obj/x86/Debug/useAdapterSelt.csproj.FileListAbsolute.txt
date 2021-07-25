@@ -1,0 +1,5 @@
+D:\1a课件\C#课件\C#课程编写\第九章\案例\例9.6\useAdapterSelt\useAdapterSelt\bin\Debug\useAdapterSelt.exe
+D:\1a课件\C#课件\C#课程编写\第九章\案例\例9.6\useAdapterSelt\useAdapterSelt\bin\Debug\useAdapterSelt.pdb
+D:\1a课件\C#课件\C#课程编写\第九章\案例\例9.6\useAdapterSelt\useAdapterSelt\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1a课件\C#课件\C#课程编写\第九章\案例\例9.6\useAdapterSelt\useAdapterSelt\obj\x86\Debug\useAdapterSelt.exe
+D:\1a课件\C#课件\C#课程编写\第九章\案例\例9.6\useAdapterSelt\useAdapterSelt\obj\x86\Debug\useAdapterSelt.pdb

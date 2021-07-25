@@ -1,0 +1,15 @@
+D:\1a课件\C#课件\C#课程编写\第七章\useSuspendResume\useSuspendResume\bin\Debug\useSuspendResume.exe
+D:\1a课件\C#课件\C#课程编写\第七章\useSuspendResume\useSuspendResume\bin\Debug\useSuspendResume.pdb
+D:\1a课件\C#课件\C#课程编写\第七章\useSuspendResume\useSuspendResume\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1a课件\C#课件\C#课程编写\第七章\useSuspendResume\useSuspendResume\obj\x86\Debug\useSuspendResume.exe
+D:\1a课件\C#课件\C#课程编写\第七章\useSuspendResume\useSuspendResume\obj\x86\Debug\useSuspendResume.pdb
+D:\1a课件\C#课件\C#课程编写\第七章\例7.7\useSuspendResume\useSuspendResume\obj\x86\Debug\useSuspendResume.exe
+D:\1a课件\C#课件\C#课程编写\第七章\例7.7\useSuspendResume\useSuspendResume\obj\x86\Debug\useSuspendResume.pdb
+D:\1a课件\C#课件\C#课程编写\第七章\例7.7\useSuspendResume\useSuspendResume\bin\Debug\useSuspendResume.exe
+D:\1a课件\C#课件\C#课程编写\第七章\例7.7\useSuspendResume\useSuspendResume\bin\Debug\useSuspendResume.pdb
+D:\1a课件\C#课件\C#课程编写\第七章\例7.7\useSuspendResume\useSuspendResume\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1a课件\CS课件\CS课程编写\第七章\案例\例7.7\useSuspendResume\useSuspendResume\obj\x86\Debug\useSuspendResume.exe
+D:\1a课件\CS课件\CS课程编写\第七章\案例\例7.7\useSuspendResume\useSuspendResume\obj\x86\Debug\useSuspendResume.pdb
+D:\1a课件\CS课件\CS课程编写\第七章\案例\例7.7\useSuspendResume\useSuspendResume\bin\Debug\useSuspendResume.exe
+D:\1a课件\CS课件\CS课程编写\第七章\案例\例7.7\useSuspendResume\useSuspendResume\bin\Debug\useSuspendResume.pdb
+D:\1a课件\CS课件\CS课程编写\第七章\案例\例7.7\useSuspendResume\useSuspendResume\obj\x86\Debug\ResolveAssemblyReference.cache

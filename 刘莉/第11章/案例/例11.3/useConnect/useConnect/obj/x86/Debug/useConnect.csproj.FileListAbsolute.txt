@@ -1,0 +1,5 @@
+D:\1a课件\CS课件\CS课程编写\第十章\案例\例10.3\useConnect\useConnect\bin\Debug\useConnect.exe
+D:\1a课件\CS课件\CS课程编写\第十章\案例\例10.3\useConnect\useConnect\bin\Debug\useConnect.pdb
+D:\1a课件\CS课件\CS课程编写\第十章\案例\例10.3\useConnect\useConnect\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1a课件\CS课件\CS课程编写\第十章\案例\例10.3\useConnect\useConnect\obj\x86\Debug\useConnect.exe
+D:\1a课件\CS课件\CS课程编写\第十章\案例\例10.3\useConnect\useConnect\obj\x86\Debug\useConnect.pdb

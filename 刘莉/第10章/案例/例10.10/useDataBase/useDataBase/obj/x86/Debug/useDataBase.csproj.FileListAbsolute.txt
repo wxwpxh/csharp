@@ -1,0 +1,18 @@
+D:\1a课件\C#课件\C#课程编写\第九章\案例\例9.10\useDataBase\useDataBase\bin\Debug\useDataBase.exe
+D:\1a课件\C#课件\C#课程编写\第九章\案例\例9.10\useDataBase\useDataBase\bin\Debug\useDataBase.pdb
+D:\1a课件\C#课件\C#课程编写\第九章\案例\例9.10\useDataBase\useDataBase\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1a课件\C#课件\C#课程编写\第九章\案例\例9.10\useDataBase\useDataBase\obj\x86\Debug\useDataBase.Form1.resources
+D:\1a课件\C#课件\C#课程编写\第九章\案例\例9.10\useDataBase\useDataBase\obj\x86\Debug\useDataBase.Properties.Resources.resources
+D:\1a课件\C#课件\C#课程编写\第九章\案例\例9.10\useDataBase\useDataBase\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\1a课件\C#课件\C#课程编写\第九章\案例\例9.10\useDataBase\useDataBase\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\1a课件\C#课件\C#课程编写\第九章\案例\例9.10\useDataBase\useDataBase\obj\x86\Debug\useDataBase.exe
+D:\1a课件\C#课件\C#课程编写\第九章\案例\例9.10\useDataBase\useDataBase\obj\x86\Debug\useDataBase.pdb
+C:\Documents and Settings\Administrator\桌面\例9.10\useDataBase\useDataBase\obj\x86\Debug\useDataBase.exe
+C:\Documents and Settings\Administrator\桌面\例9.10\useDataBase\useDataBase\obj\x86\Debug\useDataBase.pdb
+C:\Documents and Settings\Administrator\桌面\例9.10\useDataBase\useDataBase\bin\Debug\useDataBase.exe
+C:\Documents and Settings\Administrator\桌面\例9.10\useDataBase\useDataBase\bin\Debug\useDataBase.pdb
+C:\Documents and Settings\Administrator\桌面\例9.10\useDataBase\useDataBase\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\例9.10\useDataBase\useDataBase\obj\x86\Debug\useDataBase.Form1.resources
+C:\Documents and Settings\Administrator\桌面\例9.10\useDataBase\useDataBase\obj\x86\Debug\useDataBase.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\例9.10\useDataBase\useDataBase\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\例9.10\useDataBase\useDataBase\obj\x86\Debug\GenerateResource.write.1.tlog

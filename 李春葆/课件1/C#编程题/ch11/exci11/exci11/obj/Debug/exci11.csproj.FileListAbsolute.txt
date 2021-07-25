@@ -1,0 +1,11 @@
+D:\C#编程题\ch11\exci11\exci11\bin\Debug\exci11.exe.config
+D:\C#编程题\ch11\exci11\exci11\bin\Debug\exci11.exe
+D:\C#编程题\ch11\exci11\exci11\bin\Debug\exci11.pdb
+D:\C#编程题\ch11\exci11\exci11\obj\Debug\exci11.Form1.resources
+D:\C#编程题\ch11\exci11\exci11\obj\Debug\exci11.Form2.resources
+D:\C#编程题\ch11\exci11\exci11\obj\Debug\exci11.Form3.resources
+D:\C#编程题\ch11\exci11\exci11\obj\Debug\exci11.Form4.resources
+D:\C#编程题\ch11\exci11\exci11\obj\Debug\exci11.Properties.Resources.resources
+D:\C#编程题\ch11\exci11\exci11\obj\Debug\exci11.csproj.GenerateResource.Cache
+D:\C#编程题\ch11\exci11\exci11\obj\Debug\exci11.exe
+D:\C#编程题\ch11\exci11\exci11\obj\Debug\exci11.pdb

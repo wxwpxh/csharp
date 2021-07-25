@@ -1,0 +1,9 @@
+D:\C#程序设计\第六章\高级控件\UseTabControl\bin\Debug\UseTabControl.exe
+D:\C#程序设计\第六章\高级控件\UseTabControl\bin\Debug\UseTabControl.pdb
+D:\C#程序设计\第六章\高级控件\UseTabControl\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\C#程序设计\第六章\高级控件\UseTabControl\obj\x86\Debug\UseTabControl.Form1.resources
+D:\C#程序设计\第六章\高级控件\UseTabControl\obj\x86\Debug\UseTabControl.Properties.Resources.resources
+D:\C#程序设计\第六章\高级控件\UseTabControl\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\C#程序设计\第六章\高级控件\UseTabControl\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\C#程序设计\第六章\高级控件\UseTabControl\obj\x86\Debug\UseTabControl.exe
+D:\C#程序设计\第六章\高级控件\UseTabControl\obj\x86\Debug\UseTabControl.pdb

@@ -1,0 +1,8 @@
+D:\C#实验\ch9\experment9\experment9\bin\Debug\experment9.exe.config
+D:\C#实验\ch9\experment9\experment9\bin\Debug\experment9.exe
+D:\C#实验\ch9\experment9\experment9\bin\Debug\experment9.pdb
+D:\C#实验\ch9\experment9\experment9\obj\Debug\experment9.Form1.resources
+D:\C#实验\ch9\experment9\experment9\obj\Debug\experment9.Properties.Resources.resources
+D:\C#实验\ch9\experment9\experment9\obj\Debug\experment9.csproj.GenerateResource.Cache
+D:\C#实验\ch9\experment9\experment9\obj\Debug\experment9.exe
+D:\C#实验\ch9\experment9\experment9\obj\Debug\experment9.pdb

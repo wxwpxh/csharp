@@ -1,0 +1,5 @@
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第2章\案例\例2.3\ValueAndReferenceType\ValueAndReferenceType\bin\Debug\ValueAndReferenceType.exe
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第2章\案例\例2.3\ValueAndReferenceType\ValueAndReferenceType\bin\Debug\ValueAndReferenceType.pdb
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第2章\案例\例2.3\ValueAndReferenceType\ValueAndReferenceType\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第2章\案例\例2.3\ValueAndReferenceType\ValueAndReferenceType\obj\x86\Debug\ValueAndReferenceType.exe
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第2章\案例\例2.3\ValueAndReferenceType\ValueAndReferenceType\obj\x86\Debug\ValueAndReferenceType.pdb

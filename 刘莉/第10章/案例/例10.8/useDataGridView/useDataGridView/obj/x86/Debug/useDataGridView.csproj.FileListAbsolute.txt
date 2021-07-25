@@ -1,0 +1,10 @@
+D:\1a课件\C#课件\C#课程编写\第九章\案例\例9.8\useDataGridView\useDataGridView\bin\Debug\useDataGridView.exe.config
+D:\1a课件\C#课件\C#课程编写\第九章\案例\例9.8\useDataGridView\useDataGridView\bin\Debug\useDataGridView.exe
+D:\1a课件\C#课件\C#课程编写\第九章\案例\例9.8\useDataGridView\useDataGridView\bin\Debug\useDataGridView.pdb
+D:\1a课件\C#课件\C#课程编写\第九章\案例\例9.8\useDataGridView\useDataGridView\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1a课件\C#课件\C#课程编写\第九章\案例\例9.8\useDataGridView\useDataGridView\obj\x86\Debug\useDataGridView.Form1.resources
+D:\1a课件\C#课件\C#课程编写\第九章\案例\例9.8\useDataGridView\useDataGridView\obj\x86\Debug\useDataGridView.Properties.Resources.resources
+D:\1a课件\C#课件\C#课程编写\第九章\案例\例9.8\useDataGridView\useDataGridView\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\1a课件\C#课件\C#课程编写\第九章\案例\例9.8\useDataGridView\useDataGridView\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\1a课件\C#课件\C#课程编写\第九章\案例\例9.8\useDataGridView\useDataGridView\obj\x86\Debug\useDataGridView.exe
+D:\1a课件\C#课件\C#课程编写\第九章\案例\例9.8\useDataGridView\useDataGridView\obj\x86\Debug\useDataGridView.pdb

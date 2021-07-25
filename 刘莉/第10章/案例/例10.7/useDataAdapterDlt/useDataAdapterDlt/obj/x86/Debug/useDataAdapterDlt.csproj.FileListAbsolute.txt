@@ -1,0 +1,10 @@
+D:\1a课件\C#课件\C#课程编写\第九章\案例\例9.7\useDataAdapterDlt\useDataAdapterDlt\bin\Debug\useDataAdapterDlt.exe
+D:\1a课件\C#课件\C#课程编写\第九章\案例\例9.7\useDataAdapterDlt\useDataAdapterDlt\bin\Debug\useDataAdapterDlt.pdb
+D:\1a课件\C#课件\C#课程编写\第九章\案例\例9.7\useDataAdapterDlt\useDataAdapterDlt\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1a课件\C#课件\C#课程编写\第九章\案例\例9.7\useDataAdapterDlt\useDataAdapterDlt\obj\x86\Debug\useDataAdapterDlt.exe
+D:\1a课件\C#课件\C#课程编写\第九章\案例\例9.7\useDataAdapterDlt\useDataAdapterDlt\obj\x86\Debug\useDataAdapterDlt.pdb
+D:\1a课件\CS课件\CS课程编写\第九章\案例\例9.7\useDataAdapterDlt\useDataAdapterDlt\obj\x86\Debug\useDataAdapterDlt.exe
+D:\1a课件\CS课件\CS课程编写\第九章\案例\例9.7\useDataAdapterDlt\useDataAdapterDlt\obj\x86\Debug\useDataAdapterDlt.pdb
+D:\1a课件\CS课件\CS课程编写\第九章\案例\例9.7\useDataAdapterDlt\useDataAdapterDlt\bin\Debug\useDataAdapterDlt.exe
+D:\1a课件\CS课件\CS课程编写\第九章\案例\例9.7\useDataAdapterDlt\useDataAdapterDlt\bin\Debug\useDataAdapterDlt.pdb
+D:\1a课件\CS课件\CS课程编写\第九章\案例\例9.7\useDataAdapterDlt\useDataAdapterDlt\obj\x86\Debug\ResolveAssemblyReference.cache

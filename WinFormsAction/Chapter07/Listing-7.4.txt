@@ -1,0 +1,17 @@
+using System;
+using System.Windows.Forms;
+
+namespace MyFormNamespace
+{
+  public class FormDialog : Form
+  {
+    public FormDialog()
+    {
+      FormBorderStyle = FormBorderStyle.FixedDialog;
+      MaximizeBox = false;
+      MinimizeBox = false;
+      ShowInTaskbar = false;
+      StartPosition = FormStartPosition.CenterParent;
+    }
+  }
+}

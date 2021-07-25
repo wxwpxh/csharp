@@ -1,0 +1,5 @@
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第3章\案例\例3.6\ArrayParameterTest\ArrayParameterTest\bin\Debug\ArrayParameterTest.exe
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第3章\案例\例3.6\ArrayParameterTest\ArrayParameterTest\bin\Debug\ArrayParameterTest.pdb
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第3章\案例\例3.6\ArrayParameterTest\ArrayParameterTest\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第3章\案例\例3.6\ArrayParameterTest\ArrayParameterTest\obj\x86\Debug\ArrayParameterTest.exe
+D:\1a课件\CS课件\CS课程编写\刘莉C#书稿2014\CS案例Liu\第3章\案例\例3.6\ArrayParameterTest\ArrayParameterTest\obj\x86\Debug\ArrayParameterTest.pdb

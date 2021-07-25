@@ -1,0 +1,7 @@
+F:\C#教材\教材例题\chapter10\ex10-04\ex10-04\obj\Debug\ex10-04.exe
+F:\C#教材\教材例题\chapter10\ex10-04\ex10-04\obj\Debug\ex10-04.pdb
+F:\C#教材\教材例题\chapter10\ex10-04\ex10-04\bin\Debug\ex10-04.exe
+F:\C#教材\教材例题\chapter10\ex10-04\ex10-04\bin\Debug\ex10-04.pdb
+F:\C#教材\教材例题\chapter10\ex10-04\ex10-04\obj\Debug\ResolveAssemblyReference.cache
+F:\C#教材\教材例题\chapter10\ex10-04\ex10-04\obj\Debug\ex10_04.Properties.Resources.resources
+F:\C#教材\教材例题\chapter10\ex10-04\ex10-04\obj\Debug\ex10-04.csproj.GenerateResource.Cache

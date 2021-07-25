@@ -1,0 +1,10 @@
+D:\1a课件\C#课件\C#课程编写\第一章\HelloCS\HelloCS\bin\Debug\HelloCS.exe
+D:\1a课件\C#课件\C#课程编写\第一章\HelloCS\HelloCS\bin\Debug\HelloCS.pdb
+D:\1a课件\C#课件\C#课程编写\第一章\HelloCS\HelloCS\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1a课件\C#课件\C#课程编写\第一章\HelloCS\HelloCS\obj\x86\Debug\HelloCS.exe
+D:\1a课件\C#课件\C#课程编写\第一章\HelloCS\HelloCS\obj\x86\Debug\HelloCS.pdb
+D:\1a课件\CS课件\CS课程编写\第一章\案例\例1.1\HelloCS\HelloCS\obj\x86\Debug\HelloCS.exe
+D:\1a课件\CS课件\CS课程编写\第一章\案例\例1.1\HelloCS\HelloCS\obj\x86\Debug\HelloCS.pdb
+D:\1a课件\CS课件\CS课程编写\第一章\案例\例1.1\HelloCS\HelloCS\bin\Debug\HelloCS.exe
+D:\1a课件\CS课件\CS课程编写\第一章\案例\例1.1\HelloCS\HelloCS\bin\Debug\HelloCS.pdb
+D:\1a课件\CS课件\CS课程编写\第一章\案例\例1.1\HelloCS\HelloCS\obj\x86\Debug\ResolveAssemblyReference.cache

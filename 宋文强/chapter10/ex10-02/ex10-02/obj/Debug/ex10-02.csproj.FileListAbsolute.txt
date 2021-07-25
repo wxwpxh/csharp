@@ -1,0 +1,2 @@
+F:\C#教材\教材例题\chapter10\ex10-02\ex10-02\obj\Debug\ex10-02.exe
+F:\C#教材\教材例题\chapter10\ex10-02\ex10-02\obj\Debug\ex10-02.pdb

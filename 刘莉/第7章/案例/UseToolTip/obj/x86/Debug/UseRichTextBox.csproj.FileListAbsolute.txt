@@ -1,0 +1,9 @@
+D:\C#程序设计\第六章\高级控件\UseToolTip\bin\Debug\UseToolTip.exe
+D:\C#程序设计\第六章\高级控件\UseToolTip\bin\Debug\UseToolTip.pdb
+D:\C#程序设计\第六章\高级控件\UseToolTip\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\C#程序设计\第六章\高级控件\UseToolTip\obj\x86\Debug\UseToolTip.RichTextBox的使用.resources
+D:\C#程序设计\第六章\高级控件\UseToolTip\obj\x86\Debug\UseToolTip.Properties.Resources.resources
+D:\C#程序设计\第六章\高级控件\UseToolTip\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\C#程序设计\第六章\高级控件\UseToolTip\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\C#程序设计\第六章\高级控件\UseToolTip\obj\x86\Debug\UseToolTip.exe
+D:\C#程序设计\第六章\高级控件\UseToolTip\obj\x86\Debug\UseToolTip.pdb

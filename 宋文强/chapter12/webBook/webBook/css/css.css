@@ -1,0 +1,93 @@
+﻿body
+{
+	margin-top: 5px;
+	background-image: url(../image/txt_css0.gif);
+}
+
+.button_1
+{
+    background-image: url(images/Button01.GIF);
+    color: #05376E;
+    width: 60px;
+    height: 23px;
+    cursor: hand;
+    font-size: 12px;
+}
+
+.z1
+{
+    background-image: url(images/tile_back.gif);
+    color: #000099;
+    font-family: 华文行楷, Verdana, Sans-Serif;
+    background-repeat: repeat-x;
+    line-height: 18px;
+    font-size: 24pt;
+}
+.GV_header
+{
+	background-color: lavender;
+	font-size: 9pt;
+	height: 25px;
+}
+.td_submit
+{
+	background-color: #ffffff;
+	font-size: 9pt;
+	height: 35px;
+	text-align:center;
+}
+
+.tbs1
+{
+	background-color: #cccccc;
+}
+
+.tbs2
+{
+	background-color: #6699ff;
+}
+.tdindex
+{
+	background-color: #f2ffff;
+	font-size: 9pt;
+	height: 50px;
+}
+.td0
+{
+	background-color: #f2ffff;
+	font-size: 9pt;
+	height: 25px;
+}
+.td1
+{
+	background-color: lavender;
+	font-size: 9pt;
+	text-align: left;
+}
+.td1_1
+{
+	background-color: lavender;
+	font-size: 9pt;
+	text-align: right;
+}
+.td2
+{
+	background-color: #ffffff;
+	font-size: 9pt;
+	height: 25px;
+}
+.td3
+{ 
+	background-color: #f2ffff;
+	font-size: 9pt;
+	height: 25px;
+	text-align: right; 
+}
+.td4
+{
+	
+	font-size: 9pt;
+	height: 25px;
+	text-align: center;
+}
+

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="GB2312"?>
+<!DOCTYPE 教师 SYSTEM "teacher.dtd">
+<教师>
+	<姓名>"陈明"</姓名>
+	<职称>"副教授"</职称>
+</教师>

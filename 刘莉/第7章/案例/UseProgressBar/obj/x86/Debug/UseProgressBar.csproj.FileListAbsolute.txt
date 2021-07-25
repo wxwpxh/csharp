@@ -1,0 +1,9 @@
+D:\C#程序设计\第六章\高级控件\UseProgressBar\bin\Debug\UseProgressBar.exe
+D:\C#程序设计\第六章\高级控件\UseProgressBar\bin\Debug\UseProgressBar.pdb
+D:\C#程序设计\第六章\高级控件\UseProgressBar\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\C#程序设计\第六章\高级控件\UseProgressBar\obj\x86\Debug\UseProgressBar.Form1.resources
+D:\C#程序设计\第六章\高级控件\UseProgressBar\obj\x86\Debug\UseProgressBar.Properties.Resources.resources
+D:\C#程序设计\第六章\高级控件\UseProgressBar\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\C#程序设计\第六章\高级控件\UseProgressBar\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\C#程序设计\第六章\高级控件\UseProgressBar\obj\x86\Debug\UseProgressBar.exe
+D:\C#程序设计\第六章\高级控件\UseProgressBar\obj\x86\Debug\UseProgressBar.pdb

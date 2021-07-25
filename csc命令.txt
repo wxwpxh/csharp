@@ -1,0 +1,151 @@
+终端编码切换：
+D:\prg\csharp>chcp 65001
+D:\prg\csharp>chcp 936
+
+C#操作Excel总结
+https://www.cnblogs.com/wang_yb/articles/1750419.html
+D:\prg\csharp\WinFormsAction\test1>csc /?
+Microsoft(R) Visual C# 编译器 版本 2.10.0.0 (b9fb1610)
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+
+                             Visual C# 编译器选项
+
+                       - 输出文件 -
+-out:<file>                   指定输出文件名称(默认: 具有主类的文件或
+                              第一个文件的基名称)
+-target:exe                   生成控制台可执行文件(默认) (缩
+                              写: -t:exe)
+-target:winexe                生成 Windows 可执行文件(缩写:
+                              -t:winexe)
+-target:library               生成库(缩写: -t:library)
+-target:module                生成可添加到另一个程序集的
+                              模块(缩写: -t:module)
+-target:appcontainerexe       生成 Appcontainer 可执行文件(缩写:
+                              -t:appcontainerexe)
+-target:winmdobj              生成 WinMDExp 使用的
+                              Windows 运行时中间文件(缩写: -t:winmdobj)
+-doc:<file>                   要生成的 XML 文档文件
+-refout:<file>                要生成的引用程序集输出
+-platform:<string>            限制此代码可以在其上运行的平台: x86、
+                              Itanium、x64、arm、arm64、anycpu32bitpreferred 或
+                              anycpu。默认平台为 anycpu。
+
+                       - 输入文件 -
+-recurse:<wildcard>           根据通配符规范包括当前目录和
+                              子目录中的所有
+                              文件
+-reference:<alias>=<file>     使用给定别名从指定程序集文件
+                              引用元数据(缩写: -r)
+-reference:<file list>        从指定程序集文件引用
+                              元数据(缩写: -r)
+-addmodule:<file list>        将指定模块链接到此程序集中
+-link:<file list>             嵌入指定互操作程序集文件中的
+                              元数据(缩写: -l)
+-analyzer:<file list>         运行此程序集中的分析器
+                              (缩写: -a)
+-additionalfile:<file list>   不会直接影响代码生成
+                              但可能被分析器用于生成
+                              错误或警告的其他文件。
+-embed                        在 PDB 中嵌入所有源文件。
+-embed:<file list>            在 PDB 中嵌入特定文件
+
+                       - 资源 -
+-win32res:<file>              指定 Win32 资源文件(.res)
+-win32icon:<file>             对输出使用此图标
+-win32manifest:<file>         指定 Win32 清单文件(.xml)
+-nowin32manifest              不包括默认的 Win32 清单
+-resource:<resinfo>           嵌入指定资源(缩写: -res)
+-linkresource:<resinfo>       将指定资源链接到此程序集
+                              (缩写: -linkres) 其中 resinfo 的格式
+                              是 <file>[,<string name>[,public|private]]
+
+                       - 代码生成 -
+-debug[+|-]                   发出调试信息
+-debug:{full|pdbonly|portable|embedded}
+                              指定调试类型(默认为 ”full”，
+                              “portable” 为跨平台格式，
+                              “embedded”为嵌入到目标 .dll 或 .exe 的
+                              跨平台格式)
+-optimize[+|-]                启用优化(缩写: -o)
+-deterministic                生成确定性的程序集
+                              (包括模块版本 GUID 和时间戳)
+-refonly                      生成引用程序集来替换主要输出
+-instrument:TestCoverage      生成对其检测以收集覆盖率信息的
+                              程序集
+-sourcelink:<file>            要嵌入到 PDB 中的源链接信息。
+
+                       - 错误和警告 -
+-warnaserror[+|-]             将所有警告报告为错误
+-warnaserror[+|-]:<warn list> 将特定警告报告为错误
+-warn:<n>                     设置警告级别(0-4) (缩写: -w)
+-nowarn:<warn list>           禁用特定警告消息
+-ruleset:<file>               指定禁用特定诊断的
+                              规则集文件。
+-errorlog:<file>              指定用于记录所有编译器和分析器诊断的
+                              文件。
+-reportanalyzer               报告其他分析器信息，如
+                              执行时间。
+
+                       - 语言 -
+-checked[+|-]                 生成溢出检查
+-unsafe[+|-]                  允许 “unsafe” 代码
+-define:<symbol list>         定义条件编译符号(缩
+                              写: -d)
+-langversion:?                显示允许的语言版本值
+-langversion:<string>         指定语言版本，如
+                              “default” (最新主要版本)、
+                              “latest” (最新版本，包括次要版本)
+                              或 ”6”、”7.1” 等特定版本
+
+                       - 安全 -
+-delaysign[+|-]               仅使用强名称密钥的公共部分对程序集
+                              进行延迟签名
+-publicsign[+|-]              仅使用强名称密钥的公共部分对程序集
+                              进行公共签名
+-keyfile:<file>               指定强名称密钥文件
+-keycontainer:<string>        指定强名称密钥容器
+-highentropyva[+|-]           启用高平均信息量 ASLR
+
+                       - 杂项 -
+@<file>                       读取响应文件以获取更多选项
+-help                         显示此用法消息(缩写: -?)
+-nologo                       取消显示编译器版权消息
+-noconfig                     不自动包括 CSC.RSP 文件
+-parallel[+|-]                并发生成。
+-version                      显示编译器版本号并退出。
+
+                       - 高级 -
+-baseaddress:<address>        要生成的库的基址
+-checksumalgorithm:<alg>      指定计算存储在 PDB 中的源文件
+                              校验和的算法。支持的值是:
+                              SHA1 (默认)或 SHA256。
+-codepage:<n>                 指定打开源文件时要使用的
+                              代码页
+-utf8output                   以 UTF-8 编码格式输出编译器消息
+-main:<type>                  指定包含入口点的类型
+                              (忽略所有其他可能的入口点) (缩
+                              写: -m)
+-fullpaths                    编译器生成完全限定路径
+-filealign:<n>                指定用于输出文件节的
+                              对齐方式
+-pathmap:<K1>=<V1>,<K2>=<V2>,...
+                              通过编译器指定源路径名称输出的
+                              映射。
+-pdb:<file>                   指定调试信息文件名称(默认:
+                              具有 .pdb 扩展名的输出文件名)
+-errorendlocation             输出每个错误的结束位置
+                              的行和列
+-preferreduilang              指定首选输出语言名称。
+-nostdlib[+|-]                不引用标准库(mscorlib.dll)
+-subsystemversion:<string>    指定此程序集的子系统版本
+-lib:<file list>              指定要在其中搜索引用的附加
+                              目录
+-errorreport:<string>         指定处理内部编译器错误的方式:
+                              prompt、send、queue 或 none。默认为
+                              queue。
+-appconfig:<file>             指定包含程序集绑定设置的
+                              应用程序配置文件
+-moduleassemblyname:<string>  此模块所属程序集
+                              的名称
+-modulename:<string>          指定源模块的名称

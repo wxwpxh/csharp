@@ -1,0 +1,5 @@
+D:\C#编程题\ch3\exci3-1\exci3-1\bin\Debug\exci3-1.exe.config
+D:\C#编程题\ch3\exci3-1\exci3-1\bin\Debug\exci3-1.exe
+D:\C#编程题\ch3\exci3-1\exci3-1\bin\Debug\exci3-1.pdb
+D:\C#编程题\ch3\exci3-1\exci3-1\obj\Debug\exci3-1.exe
+D:\C#编程题\ch3\exci3-1\exci3-1\obj\Debug\exci3-1.pdb

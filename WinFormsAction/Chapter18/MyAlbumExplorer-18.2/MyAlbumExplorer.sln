@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyAlbumExplorer", "MyAlbumExplorer\MyAlbumExplorer.csproj", "{D1CE4AD9-28E5-4434-8352-00D26F115B25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyPhotoAlbum", "MyPhotoAlbum\MyPhotoAlbum.csproj", "{51E85ABB-90B2-445D-91E4-F12BAE37226B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyPhotoControls", "MyPhotoControls\MyPhotoControls.csproj", "{743070A9-56F2-4591-8C71-BBE52A5B354F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1CE4AD9-28E5-4434-8352-00D26F115B25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1CE4AD9-28E5-4434-8352-00D26F115B25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1CE4AD9-28E5-4434-8352-00D26F115B25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1CE4AD9-28E5-4434-8352-00D26F115B25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51E85ABB-90B2-445D-91E4-F12BAE37226B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51E85ABB-90B2-445D-91E4-F12BAE37226B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51E85ABB-90B2-445D-91E4-F12BAE37226B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51E85ABB-90B2-445D-91E4-F12BAE37226B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{743070A9-56F2-4591-8C71-BBE52A5B354F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{743070A9-56F2-4591-8C71-BBE52A5B354F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{743070A9-56F2-4591-8C71-BBE52A5B354F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{743070A9-56F2-4591-8C71-BBE52A5B354F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

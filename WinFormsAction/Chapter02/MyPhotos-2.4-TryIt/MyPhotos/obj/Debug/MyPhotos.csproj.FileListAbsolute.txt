@@ -1,0 +1,9 @@
+D:\prg\csharp\WinFormsAction\Chapter02\MyPhotos-2.4-TryIt\MyPhotos\bin\Debug\MyPhotos.exe
+D:\prg\csharp\WinFormsAction\Chapter02\MyPhotos-2.4-TryIt\MyPhotos\bin\Debug\MyPhotos.pdb
+D:\prg\csharp\WinFormsAction\Chapter02\MyPhotos-2.4-TryIt\MyPhotos\obj\Debug\MyPhotos.csprojAssemblyReference.cache
+D:\prg\csharp\WinFormsAction\Chapter02\MyPhotos-2.4-TryIt\MyPhotos\obj\Debug\MyPhotos.MainForm.resources
+D:\prg\csharp\WinFormsAction\Chapter02\MyPhotos-2.4-TryIt\MyPhotos\obj\Debug\MyPhotos.Properties.Resources.resources
+D:\prg\csharp\WinFormsAction\Chapter02\MyPhotos-2.4-TryIt\MyPhotos\obj\Debug\MyPhotos.csproj.GenerateResource.cache
+D:\prg\csharp\WinFormsAction\Chapter02\MyPhotos-2.4-TryIt\MyPhotos\obj\Debug\MyPhotos.csproj.CoreCompileInputs.cache
+D:\prg\csharp\WinFormsAction\Chapter02\MyPhotos-2.4-TryIt\MyPhotos\obj\Debug\MyPhotos.exe
+D:\prg\csharp\WinFormsAction\Chapter02\MyPhotos-2.4-TryIt\MyPhotos\obj\Debug\MyPhotos.pdb

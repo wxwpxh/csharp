@@ -1,0 +1,6 @@
+D:\C#编程题\ch8\exci8-2\exci8-2\bin\Debug\exci8-2.exe.config
+D:\C#编程题\ch8\exci8-2\exci8-2\obj\Debug\exci8-2.csprojResolveAssemblyReference.cache
+D:\C#编程题\ch8\exci8-2\exci8-2\bin\Debug\exci8-2.exe
+D:\C#编程题\ch8\exci8-2\exci8-2\bin\Debug\exci8-2.pdb
+D:\C#编程题\ch8\exci8-2\exci8-2\obj\Debug\exci8-2.exe
+D:\C#编程题\ch8\exci8-2\exci8-2\obj\Debug\exci8-2.pdb
