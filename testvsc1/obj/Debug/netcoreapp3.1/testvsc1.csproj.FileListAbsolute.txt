@@ -24,3 +24,16 @@ D:\prg\Git\csharp\testvsc1\obj\Debug\netcoreapp3.1\testvsc1.csproj.CoreCompileIn
 D:\prg\Git\csharp\testvsc1\obj\Debug\netcoreapp3.1\testvsc1.dll
 D:\prg\Git\csharp\testvsc1\obj\Debug\netcoreapp3.1\testvsc1.pdb
 D:\prg\Git\csharp\testvsc1\obj\Debug\netcoreapp3.1\testvsc1.genruntimeconfig.cache
+D:\Git\csharp\testvsc1\bin\Debug\netcoreapp3.1\testvsc1.exe
+D:\Git\csharp\testvsc1\bin\Debug\netcoreapp3.1\testvsc1.deps.json
+D:\Git\csharp\testvsc1\bin\Debug\netcoreapp3.1\testvsc1.runtimeconfig.json
+D:\Git\csharp\testvsc1\bin\Debug\netcoreapp3.1\testvsc1.runtimeconfig.dev.json
+D:\Git\csharp\testvsc1\bin\Debug\netcoreapp3.1\testvsc1.dll
+D:\Git\csharp\testvsc1\bin\Debug\netcoreapp3.1\testvsc1.pdb
+D:\Git\csharp\testvsc1\obj\Debug\netcoreapp3.1\testvsc1.csprojAssemblyReference.cache
+D:\Git\csharp\testvsc1\obj\Debug\netcoreapp3.1\testvsc1.AssemblyInfoInputs.cache
+D:\Git\csharp\testvsc1\obj\Debug\netcoreapp3.1\testvsc1.AssemblyInfo.cs
+D:\Git\csharp\testvsc1\obj\Debug\netcoreapp3.1\testvsc1.csproj.CoreCompileInputs.cache
+D:\Git\csharp\testvsc1\obj\Debug\netcoreapp3.1\testvsc1.dll
+D:\Git\csharp\testvsc1\obj\Debug\netcoreapp3.1\testvsc1.pdb
+D:\Git\csharp\testvsc1\obj\Debug\netcoreapp3.1\testvsc1.genruntimeconfig.cache
